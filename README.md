@@ -1,5 +1,9 @@
 # waynergy-config
 
+See reddit post on why this is created: https://www.reddit.com/r/pop_os/comments/1rm9a77/cosmic_desktop_how_to_get_keyboard_mouse_share/
+
+See config.ini file for keyboard mappings.
+
 pop-os needs to be the client (no mouse / keyboard)
 other machine needs to be the server (with mouse / keyboard)
 
